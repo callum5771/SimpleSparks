@@ -31,7 +31,7 @@ class SimpleCoins : JavaPlugin {
 
     companion object {
         private const val PLUGIN_FILE = "src/main/kotlin/de/axelrindle/simplecoins/SimpleCoins.kt"
-        const val prefix = "§6SimpleCoins §r>"
+        const val prefix = "§7Sparks>"
 
         private var instance: SimpleCoins? = null
 
